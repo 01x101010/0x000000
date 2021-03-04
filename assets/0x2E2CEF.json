@@ -12,7 +12,7 @@
       },
       "image": {
         "type": "string",
-        "description": "https://github.com/01x101010/0x000000/blob/caff76c3e5b7646f0fe4f8d48338618659fa3b07/assets/img/0x2E2CEF.png"
+        "description": "https://raw.githubusercontent.com/01x101010/0x000000/master/assets/img/0x2E2CEF.png"
       }
     }
   }
