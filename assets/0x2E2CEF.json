@@ -4,15 +4,15 @@
     "properties": {
       "name": {
         "type": "string",
-        "description": ""
+        "description": "#2E2CEF"
       },
       "description": {
         "type": "string",
-        "description": ""
+        "description": "#2E2CEF"
       },
       "image": {
         "type": "string",
-        "description": ""
+        "description": "https://github.com/01x101010/0x000000/blob/caff76c3e5b7646f0fe4f8d48338618659fa3b07/assets/img/0x2E2CEF.png"
       }
     }
   }
